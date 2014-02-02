@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# License: Unlicense
+
 # Challenge url: http://code.google.com/codejam/contest/189252/dashboard#s=p0
 
 # Usage: A-All_Your_Base.py input_file output_file
