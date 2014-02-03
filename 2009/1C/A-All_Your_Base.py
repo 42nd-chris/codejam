@@ -2,7 +2,10 @@
 
 # License: Unlicense
 
+# Google Code Jame 2009 Round 1C - A All Your Base
 # Challenge url: http://code.google.com/codejam/contest/189252/dashboard#s=p0
+
+# Passes both small and large input
 
 # Usage: A-All_Your_Base.py input_file output_file
 # 	input_file: text file, input is assumed to be valid and formatted as
@@ -13,6 +16,10 @@
 # 		will be overwritten if it exists
 #		output will be written to stdout if the output file
 # 		isn't specified or can't be written to
+
+# Problem Description:
+#	Given a string which represents a number in an unknown base,
+#	print out the base 10 representation of it's smallest possible value.
 
 # imports
 from sys import argv, exit, stdout, stderr
